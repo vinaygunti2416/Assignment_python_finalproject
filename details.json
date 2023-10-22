@@ -1,0 +1,79 @@
+[
+    {
+        "name": "Alice",
+        "phoneNumber": "1234567890",
+        "email": "alice@example.com",
+        "address": "123 Main St",
+        "password": "password123"
+    },
+    {
+        "name": "Bob",
+        "phoneNumber": "9876543210",
+        "email": "bob@example.com",
+        "address": "456 Elm St",
+        "password": "qwerty"
+    },
+    {
+        "name": "Charlie",
+        "phoneNumber": "5555555555",
+        "email": "charlie@example.com",
+        "address": "789 Oak St",
+        "password": "123456"
+    },
+    {
+        "name": "David",
+        "phoneNumber": "8888888888",
+        "email": "david@example.com",
+        "address": "101 Pine Ave",
+        "password": "letmein"
+    },
+    {
+        "name": "Eva",
+        "phoneNumber": "1111111111",
+        "email": "eva@example.com",
+        "address": "222 Cedar Rd",
+        "password": "admin"
+    },
+    {
+        "name": "Frank",
+        "phoneNumber": "9999999999",
+        "email": "frank@example.com",
+        "address": "123 Main St",
+        "password": "welcome"
+    },
+    {
+        "name": "Grace",
+        "phoneNumber": "5555555555",
+        "email": "grace@example.com",
+        "address": "456 Elm St",
+        "password": "password123"
+    },
+    {
+        "name": "Hannah",
+        "phoneNumber": "8888888888",
+        "email": "hannah@example.com",
+        "address": "789 Oak St",
+        "password": "qwerty"
+    },
+    {
+        "name": "Ian",
+        "phoneNumber": "1234567890",
+        "email": "ian@example.com",
+        "address": "101 Pine Ave",
+        "password": "123456"
+    },
+    {
+        "name": "Julia",
+        "phoneNumber": "9876543210",
+        "email": "julia@example.com",
+        "address": "222 Cedar Rd",
+        "password": "letmein"
+    },
+    {
+        "name": "vinay",
+        "phoneNumber": 8500475337,
+        "email": "vinay@gmail.com",
+        "address": "123/20",
+        "password": "vinay123"
+    }
+]
